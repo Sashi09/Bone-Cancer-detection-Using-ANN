@@ -661,7 +661,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "id": "c5a9a29c",
       "metadata": {
         "id": "c5a9a29c"
@@ -675,7 +675,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "id": "516b53b2",
       "metadata": {
         "id": "516b53b2"
@@ -691,7 +691,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "id": "c427d289",
       "metadata": {
         "id": "c427d289",
@@ -1379,7 +1379,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "id": "87dc3757",
       "metadata": {
         "id": "87dc3757",
@@ -1628,7 +1628,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "id": "79677116",
       "metadata": {
         "id": "79677116",
@@ -1671,7 +1671,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "id": "cd8fd248",
       "metadata": {
         "id": "cd8fd248",
@@ -1758,7 +1758,7 @@
       "duration": 29.023283,
       "end_time": "2024-01-08T08:53:02.286475",
       "environment_variables": {},
-      "exception": null,
+      "exception": None,
       "input_path": "__notebook__.ipynb",
       "output_path": "__notebook__.ipynb",
       "parameters": {},
