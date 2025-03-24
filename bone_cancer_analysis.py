@@ -1719,7 +1719,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "include_colab_link": true
+      "include_colab_link": True
     },
     "kaggle": {
       "accelerator": "none",
