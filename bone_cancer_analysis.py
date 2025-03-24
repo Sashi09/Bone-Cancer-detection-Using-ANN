@@ -1731,8 +1731,8 @@
         }
       ],
       "dockerImageVersionId": 30626,
-      "isGpuEnabled": false,
-      "isInternetEnabled": false,
+      "isGpuEnabled": False,
+      "isInternetEnabled": False,
       "language": "python",
       "sourceType": "notebook"
     },
