@@ -161,7 +161,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": none,
+      "execution_count": None,
       "id": "320c160c",
       "metadata": {
         "id": "320c160c"
@@ -173,7 +173,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": none,
+      "execution_count": None,
       "id": "7694268a",
       "metadata": {
         "id": "7694268a",
